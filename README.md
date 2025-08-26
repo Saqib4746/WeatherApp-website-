@@ -15,3 +15,6 @@ A simple and responsive Weather App built using HTML, CSS, and JavaScript. It fe
 🎨 Clean and minimal UI
 
 5 days weather forecast.
+
+
+Note:  create a images folder and paste these images in it to run smoothly.
