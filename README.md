@@ -1,2 +1,17 @@
-# WeatherApp-website-
-A simple and responsive Weather App built using HTML, CSS, and JavaScript. It fetches real-time weather data using an API and displays details like temperature, humidity, and conditions with a clean UI.
+🌤 Weather App
+
+A simple and responsive Weather App built using HTML, CSS, and JavaScript. It fetches real-time weather data from a weather API and displays temperature, humidity, and conditions in a clean and modern UI.
+
+✅ Features
+
+🌎 Search weather by city name
+
+🌡 Displays temperature, humidity, wind speed
+
+⚠ Error handling for invalid locations
+
+📱 Fully responsive design for mobile & desktop
+
+🎨 Clean and minimal UI
+
+5 days weather forecast.
